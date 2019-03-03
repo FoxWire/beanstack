@@ -1,3 +1,18 @@
+## Beanstack
+
+### About
+Beanstack is the result of a team project for the Internet Technology Course of the Msc in Software Development at the University of Glasgow. 
+
+The aim of the project was to implement a basic CRUD Django app, with some API integration. The app features information about various coffee beans, such as taste profile and where users around Glagow can expect to find beans, they find on the app. 
+
+The app uses the ZingChart API to create a 'taste profile graph' for each coffee. Users can vote on the individual 'taste components' and update the graph. 
+
+Integration with the GoogleMaps API allows users to see stores around them that stock the certain coffees and to look for real coffee shops in the area.
+
+
+
+### Installation
+
 "# beanstack" 
 
 **Google Api key:**
